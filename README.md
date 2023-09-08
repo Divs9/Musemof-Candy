@@ -1,2 +1,2 @@
 # Musemof-Candy
-This is Candy Landing Page website.
+This is repository for candy landing page.
